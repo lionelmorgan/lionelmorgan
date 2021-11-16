@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lionelmorgan
-- 👀 I’m interested in sports and technology.
+- 👀 I’m interested in football, basketball, muscle cars, and technology.
 - 🌱 I’m currently learning software automation and testing.
 - 📫 linkedin/lionelmorgan
 
