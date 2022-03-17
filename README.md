@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lionelmorgan
 - 👀 I’m interested in football, basketball, muscle cars, and technology.
-- 🌱 I’m currently learning software automation and testing.
+- 🌱 Check out my github for software projects that I have created and collaborated on.
 - 📫 linkedin/lionelmorgan
 
 <!---
