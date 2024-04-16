@@ -1,5 +1,5 @@
 - 👋 Hi, I am Lionel Morgan
-- 👀 I’m interested in football, super cars, and technology.
+- 👀 I’m interested in football, cars, and technology.
 - 🌱 Check out my github for software projects that I have created and collaborated on.
 - 📫 linkedin/lionelmorgan
 
